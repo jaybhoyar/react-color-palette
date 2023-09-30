@@ -10,6 +10,7 @@
   flex-direction: column;
   background-color: var(--rcp-background-color);
   border-radius: 10px;
+  width: 100%;
 }
 
 .rcp-body {
